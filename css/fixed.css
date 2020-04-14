@@ -1,0 +1,30 @@
+nav {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      background-color: transparent;
+}
+
+footer {
+      position: fixed;
+      bottom: 0;
+      width: 50%;
+      margin-left: auto;
+      margin-right: auto;
+      padding-left: 0px;
+      padding-right: 0px;
+      text-align: center;
+}
+
+header {
+      margin-top: 40px;
+}
+
+body {
+      margin-top: 30px;
+}
+
+nav ul {
+      margin-bottom: 0px;
+}
+
