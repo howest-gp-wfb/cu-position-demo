@@ -1,6 +1,7 @@
 /*Verschillende waarden voor overflow*/
 #article01 {
       overflow: hidden;
+      height: 50px;
 }
 
 #article02 {
@@ -10,6 +11,7 @@
 
 #article03 {
       overflow: scroll;
+      height: 200px;
 }
 
 /*Verschillend gedrag tov een floating element*/
