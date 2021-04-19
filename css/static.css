@@ -1,5 +1,4 @@
- 
-#article01 {
+/* #article01 {
       margin-top:-50px;
       margin-left: 50px;
 }
@@ -7,6 +6,17 @@
 #article03 {
       margin-bottom: 50px;
       margin-right:50px;
+}  */
+
+
+#article01 {
+      margin-top:0px;
+      margin-left: 0px;
+}
+
+#article03 {
+      margin-bottom: 0px;
+      margin-right:0px;
 }
 
 

@@ -1,19 +1,40 @@
+#article01 {
+  position: relative;
+  top:0px;
+  left:0px;
+}
 
-  
-  #article01 {
-      position: relative;
-      top:-50px;
-      left:50px;
-  }
-  
-  #article03 {
+#article03 {
+position: relative;
+bottom:0px;
+right:0px;
+
+z-index: 0;
+}
+
+/*Onder andere elementen 
+schuiven via z-index */
+h2 {
+  z-index: -1;
+}
+
+/* 
+
+#article01 {
     position: relative;
-    bottom:-50px;
-    right:50px;
-    /*Onder andere elementen 
-    schuiven via z-index */
-    z-index: -1;
-  }
+    top:-50px;
+    left:50px;
+    z-index: 0;
+}
+
+#article03 {
+  position: relative;
+  bottom:-50px;
+  right:50px;
+  z-index: -1;
+} 
+
+*/
 
 
 

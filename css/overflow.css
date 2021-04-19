@@ -16,8 +16,12 @@
 
 /*Verschillend gedrag tov een floating element*/
 
-section {
+/* section {
      overflow: hidden;
+} */
+
+section {
+      overflow: visible;
 }
 
 #divLogoSection {
